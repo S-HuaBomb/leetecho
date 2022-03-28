@@ -98,5 +98,5 @@ var majorityElement = function(nums) {
 
 
 
-No notes
+
 
